@@ -5,135 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="851621f1-ba9b-4622-986a-29ceefce78c6" name="Changes" comment="Transact Application built and ready">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-07-30T210253.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-07-30T210332.400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-hnav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-vnav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/css/page-category.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/banner_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/book_stack_rotated.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/no-book-picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/fiction-classics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/fiction-mystery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/how-to-homediy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/no-category-picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/contact_resized.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/curved_bookshelves_resized.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/assets/images/logo_transparent_1080x1080.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AppFooter.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AppHNav.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AppHNavRight.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AppHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AppHeaderSearch.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AppPageTitle.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/BookItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/CartItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/CartTable.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryBooks.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryVNav.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/FavoriteBooks.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/HomeThirdItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/TopCategories.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/models/ShoppingCart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/models/ShoppingCartItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/services/ApiService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/CartView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/CategoryView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/CheckoutView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/ConfirmationView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/ConstructionView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/ContactView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/views/HomeView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/vue.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiResponseFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/CorsFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/ApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/BookstoreDbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/BookDaoJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/BookForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/cart/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/cart/ShoppingCartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/category/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/category/CategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/category/CategoryDaoJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/customer/CustomerForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/DefaultOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/cs5244/server/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/test/resources/test.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/business/order/DefaultOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/business/order/DefaultOrderService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +22,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -291,8 +170,16 @@
       <option name="presentableId" value="Default" />
       <updated>1659239347427</updated>
       <workItem from="1659239349287" duration="266000" />
-      <workItem from="1659239789162" duration="473000" />
+      <workItem from="1659239789162" duration="527000" />
     </task>
+    <task id="LOCAL-00001" summary="Transact Application built and ready">
+      <created>1659240300285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659240300285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
