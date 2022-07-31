@@ -1,0 +1,78 @@
+header{
+    width:100%;
+    background-color: var(--PrimaryColor);
+    background-image: url("../images/banner_bg.png");
+    background-position: center;
+    background-size: cover;
+    min-height:200px;
+    padding:0;
+    margin:0;
+}
+
+header div{
+    float:left;
+}
+
+.logo_container{
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    background-image:url("../images/logo_transparent_1080x1080.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 250px 250px;
+}
+
+.slogan{
+    text-align: center;
+    height: 35px;
+    margin-top: 75px;
+    padding-left: 0;
+    padding-top:4px;
+    color: #fff;
+    font-size: 24px; /* Use the autosizing viewport to make text adjust size */
+}
+
+.search_container{
+    width: 290px;
+    height: 35px;
+    margin-top:71px;
+    margin-right: 30px;
+    padding-top:1px;
+    background-color: #fff;
+    float: right;
+    border: 2px var(--BorderShade) solid;
+}
+
+.input-search-field{
+    border:0px;
+    width:250px;
+    height:31px;
+    margin: 0;
+    background-color: #fff;
+    font-size: 100%;
+    color:var(--Grey);
+    float:left;
+}
+
+.button-search-field{
+    border:1px var(--BorderShade) solid;
+    width:35px;
+    height:35px;
+    margin:0;
+    padding:0;
+    color:#fff;
+    background-color:var(--PrimaryColor);
+    float:left;
+}
+
+.button-search-field:hover{
+    color:var(--Grey);
+    cursor:pointer;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}

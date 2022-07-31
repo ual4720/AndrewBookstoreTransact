@@ -1,0 +1,27 @@
+#v-nav{
+    padding-bottom: 15px;
+}
+
+.v-nav-content{
+    max-width: 75%;
+    min-width: 175px;
+    border: 1px var(--BorderShade) solid;
+}
+
+#v-nav .menu-title{
+    background-color: var(--PrimaryColor);
+    padding: 10px;
+    color:#fff;
+}
+
+#v-nav .menu-title .text{
+}
+
+#v-nav .menu-title .chevron{
+    float: right;
+}
+
+#v-nav .menu-item{
+    padding:5px;
+    padding-left:15px;
+}

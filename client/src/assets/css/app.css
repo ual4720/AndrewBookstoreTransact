@@ -1,0 +1,100 @@
+main{
+    overflow:hidden;
+}
+
+.page-third{
+    float: left;
+    width: 31.5%;
+    padding:0 8px;
+}
+
+.page-twothird{
+    float: left;
+    width: 64.9999%;
+    padding: 0 8px;
+}
+
+.page-quarter{
+    float: left;
+    width: 24.9999%;
+    padding: 0 8px;
+}
+
+.page-threequarter{
+    float: left;
+    width: 71.5%;
+    padding: 0 8px;
+}
+
+.page-card{
+    box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.page-container:after,.page-container:before{
+    content:"";
+    display:table;
+    clear:both;
+}
+
+.page-container{
+    padding:0.01em 16px;
+}
+
+.page-space{
+    width: 100%;
+    height: 15px;
+    float: left;
+}
+
+.button:hover{
+    cursor:pointer;
+    background-color: var(--LightShade);
+}
+
+.button-cta{
+    background: #004466;
+    color: #fff;
+    border: 1px var(--BorderShade) solid;
+    border-radius: 4.5px;
+    padding: 8px;
+    font-size: medium;
+    text-decoration: none;
+}
+
+.button-primary{
+    background: #797B80;
+    color: #fff;
+    border: 1px var(--BorderShade) solid;
+    border-radius: 4.5px;
+    padding: 8px;
+    font-size: medium;
+    text-decoration: none;
+}
+
+.button-secondary{
+    background: #DADDE6;
+    color: #000000;
+    border: 1px var(--BorderShade) solid;
+    border-radius: 4.5px;
+    padding: 8px;
+    font-size: small;
+    text-decoration: none;
+    width: fit-content;
+}
+
+.button-secondary:hover{
+    background: #fff;
+    color: #000;
+}
+
+.button-tertiary{
+    background: #fff;
+    color: #000;
+    border: 1px var(--BorderShade) solid;
+    font-style: italic;
+    border-radius: 4.5px;
+    padding: 5px;
+    font-size: small;
+    text-decoration: none;
+    width: fit-content;
+}

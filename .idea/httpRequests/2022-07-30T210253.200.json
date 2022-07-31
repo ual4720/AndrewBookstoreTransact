@@ -1,0 +1,22 @@
+[
+  {
+    "categoryId": 1001,
+    "name": "Fiction:Classics"
+  },
+  {
+    "categoryId": 1002,
+    "name": "Fiction:Mystery"
+  },
+  {
+    "categoryId": 1003,
+    "name": "How-To:Home DIY"
+  },
+  {
+    "categoryId": 1004,
+    "name": "How-To:Permaculture"
+  },
+  {
+    "categoryId": 1005,
+    "name": "Education:TextBook"
+  }
+]

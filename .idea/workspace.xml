@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="851621f1-ba9b-4622-986a-29ceefce78c6" name="Changes" comment="Transact Application built and ready">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-07-30T210253.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2022-07-30T210332.400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-hnav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app-vnav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/css/page-category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/banner_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/book_stack_rotated.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/1020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/no-book-picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/fiction-classics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/fiction-mystery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/how-to-homediy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/categories/no-category-picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/contact_resized.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/curved_bookshelves_resized.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/logo_transparent_1080x1080.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppHNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppHNavRight.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppHeaderSearch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/AppPageTitle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/BookItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CartTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryBooks.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/CategoryVNav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/FavoriteBooks.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/HomeThirdItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TopCategories.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/models/ShoppingCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/models/ShoppingCartItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/services/ApiService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/CartView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/CategoryView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/CheckoutView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/ConfirmationView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/ConstructionView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/ContactView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/HomeView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiResponseFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/api/CorsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/BookstoreDbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/BookDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/book/BookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/cart/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/cart/ShoppingCartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/category/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/category/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/category/CategoryDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/customer/CustomerForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/DefaultOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/cs5244/server/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/resources/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ch08HfvvZic8o5zxYiAUIkfzbb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.64">
+    <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/server/src/test/resources/test.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/server/src/test/resources/test.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.64" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : server.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/AndrewBookstoreTransact" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2ea81fd4-7a19-4f7f-8873-ca4cd1695137" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51608" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : server.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.test | #1" />
+      <item itemvalue="HTTP Request.test | #2" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.64" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test | #2" />
+        <item itemvalue="HTTP Request.test | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="851621f1-ba9b-4622-986a-29ceefce78c6" name="Changes" comment="" />
+      <created>1659239347427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659239347427</updated>
+      <workItem from="1659239349287" duration="266000" />
+      <workItem from="1659239789162" duration="473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Transact Application built and ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Transact Application built and ready" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
