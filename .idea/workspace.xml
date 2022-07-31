@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851621f1-ba9b-4622-986a-29ceefce78c6" name="Changes" comment="Transact Application built and ready">
+    <list default="true" id="851621f1-ba9b-4622-986a-29ceefce78c6" name="Changes" comment="Removed ToDo's">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/customer/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/customer/CustomerDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/LineItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/LineItemDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/LineItemDaoJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderDaoJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/api/ApiResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/api/ApiResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/business/ApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/business/ApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/business/BookstoreDbException.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/business/BookstoreDbException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/business/order/DefaultOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/business/order/DefaultOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/business/order/OrderDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/business/order/OrderDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +60,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/Programming/intellij-idea-workspace/CS5244/AndrewBookstoreTransact/server/src/main/java/business/order",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,8 +72,19 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\intellij-idea-workspace\CS5244\AndrewBookstoreTransact\server\src\main\java\business\order" />
+      <recent name="E:\Programming\intellij-idea-workspace\CS5244\AndrewBookstoreTransact\server\src\main\java\business\customer" />
+    </key>
+  </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.64">
     <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/server/src/test/resources/test.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
@@ -170,7 +200,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659239347427</updated>
       <workItem from="1659239349287" duration="266000" />
-      <workItem from="1659239789162" duration="527000" />
+      <workItem from="1659239789162" duration="3368000" />
     </task>
     <task id="LOCAL-00001" summary="Transact Application built and ready">
       <created>1659240300285</created>
@@ -179,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659240300285</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed ToDo's">
+      <created>1659240337206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659240337206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +235,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Transact Application built and ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Transact Application built and ready" />
+    <MESSAGE value="Removed ToDo's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed ToDo's" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
